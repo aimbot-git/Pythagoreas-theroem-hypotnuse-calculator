@@ -4,4 +4,4 @@ In maths, to find the length of the hpotenuse of the right angled trinagle we us
 in the theroem we add the sqaure number of the base,height(lenghth)
 the number received we find the sqaure root which will give the length of the hypotnuse
 
-Python online compiler-https://www.online-python.com/
+Python online compiler for running the code -https://www.online-python.com/
